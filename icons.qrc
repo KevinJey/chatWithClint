@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="loginIcon">
+    <file>timg.jpeg</file>
+    <file>QQScLauncher.exe(129).png</file>
+    <file>picHead.jpeg</file>
+    <file>QQScLauncher.exe(129).ico</file>
+    <file>Tim.jpg</file>
+    <file alias="timBackground">timBackground.jpeg</file>
+    <file alias="headIcon">userIcon.jpg</file>
+  </qresource>
+</RCC>
